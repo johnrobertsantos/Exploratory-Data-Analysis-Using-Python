@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 ## Overview
-This project focuses on exploratory data analysis (EDA) of global job postings for the year 2023. It includes detailed insights into various aspects such as the locations of job postings, the organizations behind them, salary offerings, and additional relevant factors. Data originated from the Philippines will be prioritized in this project but can be changed to places like the United States should the data count presented is low.
+This project focuses on exploratory data analysis (EDA) of global job postings for data science jobs for the year 2023. It includes detailed insights into various aspects such as the locations of job postings, the organizations behind them, salary offerings, and additional relevant factors. Data originated from the Philippines will be prioritized in this project but can be changed to places like the United States should the data count presented is low.
 ## Objectives
 1. Identify the most in-demand skills across various job postings in different data science jobs.
 2. Analyze trends in the demand for specific job skills for Data Analysts over the course of the year.
@@ -212,4 +212,4 @@ plt.show()
 - Conversely, R, a programming language used for data analytics, has underperformed this year, placing it in the third quadrant, which signifies low demand and low salary offerings.
 
 # Ending Remarks
-Thanks for taking the time to see my project! This project basically is the fruition of my hardwork, passion, and determination for data analytics. Despite numerous troubleshooting and finding out where I went wrong, I enjoyed it regardless. Although looking back at all the programming I did, I sure have a lot more to go - which is actually exciting! This project would not be possible without Luke Barousse's course on Python for Data Analytics which he uploads for everyone to see on Youtube; so if ever you're reading this, thanks a lot, Luke!
+Thanks for taking the time to see my project! This project basically is the fruition of my hardwork, passion, and determination for data analytics. Despite numerous troubleshooting and finding out where I went wrong, I enjoyed it regardless. Although looking back at all the programming I did, I sure have a lot more to go - which is actually exciting! This project would not be possible without Luke Barousse's course on Python for Data Analytics which he uploads for everyone to see on Youtube; so if ever you're reading this, Luke, thanks a lot!
