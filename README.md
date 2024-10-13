@@ -47,6 +47,8 @@ plt.show()
 ### Results
 ![image](https://github.com/user-attachments/assets/cb707c17-dc79-471f-8663-1762e3387985)
 
+*Bar graph that visualizes the demand for different data science skills for the top 3 data science jobs in the Philippines*
+
 ### Insights
 - Unlike other countries, it is seen in the visualization that when it comes to Data Analysts and Business Analysts, excel, compared to SQL, is far more favored by the employers despite its fundamental nature in data analysis.
 - Excel and SQL are critical across all three roles, with Excel being slightly more important for business and data analysts, while SQL is crucial for data engineers.
@@ -87,6 +89,8 @@ plt.show()
 ```
 ### Results
 ![image](https://github.com/user-attachments/assets/60185b49-d6f2-4cdf-bc31-4b4d4a4cd85a)
+
+*Line graph that shows the trend of the likelihood of the top data science skills to be demanded for each month throughout 2023*
 
 ### Insights
 - Excel and SQL are core skills for data analysts, with stable demand throughout the year.
@@ -146,7 +150,11 @@ plt.show()
 ## Results
 ![image](https://github.com/user-attachments/assets/65e35c80-6719-4d92-9757-417dfb410167)
 
+*Boxplot that visualizes the salary distribution of the top data science jobs*
+
 ![image](https://github.com/user-attachments/assets/f5ba8f91-d07c-4eb3-a03c-cfe2e57ee8bb)
+
+*Two bar graphs that visualize the salary offerings for the highest paid data science skills and the most demanded data science skills*
 
 ## Insights
 - Machine Learning Engineers command the highest median salary, with some exceeding $300k, indicating strong earning potential.
@@ -195,6 +203,7 @@ plt.show()
 ### Results
 ![image](https://github.com/user-attachments/assets/dfd57bce-3dbf-4fda-8930-186f06f1ad08)
 
+*Scatter plot that visualizes the differences of each skills relative to their likelihood of being demanded and their median salary offerings*
 
 ### Insights
 - Python stands out as the only skill located in the first quadrant, indicating that it commands both a high median yearly salary and strong demand in data science job postings.
