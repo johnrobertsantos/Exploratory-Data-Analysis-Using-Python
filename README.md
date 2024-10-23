@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Data Analysis Using Python
 ## Overview
 This project focuses on exploratory data analysis (EDA) of global job postings for data science jobs for the year 2023. It includes detailed insights into various aspects such as the locations of job postings, the organizations behind them, salary offerings, and additional relevant factors. Data originated from the Philippines will be prioritized in this project but can be changed to places like the United States should the data count presented is low.
 ## Objectives
